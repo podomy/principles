@@ -6,4 +6,4 @@
 4. We have to run with as small of overhead as possible, zero overhead.
 5. Highly stable and clean contracts.
 6. We do not build wrappers over existing tools; we build and integrate everything we need. Vertical integration.
-7. Zero breaking updates across the ecosystem. Workloads, state schemas, and protocols introduced in a Podomy's repositories will execute without breaking changes on any future 1.x release.
+7. Zero breaking updates across the ecosystem. Workloads, state schemas, and protocols introduced in a Podomy repository will execute without breaking changes on any future 1.x release.
